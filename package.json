@@ -11,7 +11,9 @@
     "client": "cd client && npm start"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "autoprefixer": "10.4.5",
+    "express": "^4.17.1",
+    "workbox-precaching": "^7.0.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
